@@ -1,7 +1,7 @@
 ﻿
 Software Engineer | Python Automation & CI/CD
 
-Turning ideas into reality with AI — built alongside Claude.
+Turning ideas into reality with AI - built alongside Claude.
 
 ---
 
