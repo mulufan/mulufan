@@ -49,9 +49,9 @@ _placeholder — fill in current project or focus area_
 
 ## GitHub Stats
 
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=201e1d&text_color=201e1d&icon_color=555555&border_color=e0e0e0" alt="GitHub stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=your-github-username&hide_border=true&background=00000000&ring=201e1d&fire=201e1d&currStreakLabel=201e1d&sideLabels=555555&sideNums=201e1d&dates=888888&border=e0e0e0" alt="GitHub streak" height="165" />
-</p>
+</p> -->
 
 ---
