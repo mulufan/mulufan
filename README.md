@@ -19,11 +19,11 @@ From idea to shipped: building and rebuilding with the right tools. Experienced 
 </td>
 <td valign="top" style="border:1px solid #d0d7de;padding:16px">
 <b>CI/CD & Version Control</b><br><br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,githubactions" />
 </td>
 <td valign="top" style="border:1px solid #d0d7de;padding:16px">
 <b>Tools</b><br><br>
-<img src="https://skillicons.dev/icons?i=qt,visualstudio,eclipse,vscode" />
+<img src="https://skillicons.dev/icons?i=visualstudio,eclipse,vscode,qt,pycharm" />
 </td>
 </tr>
 <tr>
