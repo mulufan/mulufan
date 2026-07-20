@@ -5,7 +5,7 @@ Turning ideas into reality with AI - built alongside Claude.
 
 ---
 
-From idea to shipped: building and rebuilding with the right tools. Experienced with VS Code, Visual Studio, PyCharm, Eclipse, Qt Designer, and onward with AI.
+From idea to shipped: building and rebuilding with the right tools. Experienced with VS Code, Visual Studio, PyCharm, Eclipse, Qt Designer, and increasingly integrating AI into my development workflow.
 
 ---
 
