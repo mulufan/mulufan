@@ -41,9 +41,6 @@ From idea to shipped: building and rebuilding with the right tools. Experienced 
 
 ---
 
-## Currently working on
-
-_placeholder — fill in current project or focus area_
 
 ---
 
