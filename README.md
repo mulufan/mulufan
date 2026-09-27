@@ -1,11 +1,3 @@
-﻿
-Software Developer | Automation Engineering • Python • CI/CD
-
----
-
-From idea to shipped: building and rebuilding with the right tools. Experienced with VS Code, Visual Studio, PyCharm, Eclipse, Qt Designer, and increasingly integrating AI into my development workflow.
-
----
 
 ## Tech Stack
 
