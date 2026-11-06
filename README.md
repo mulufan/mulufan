@@ -22,7 +22,7 @@
 <img src="https://skillicons.dev/icons?i=prometheus,grafana,docker,linux" />
 </td>
 <td valign="top" style="border:1px solid #d0d7de;padding:16px">
-<b>Collaboration</b><br><br>
+<!-- <b>Collaboration</b><br><br> -->
 <img src="https://skillicons.dev/icons?i=jira,confluence" />
 </td>
 <td valign="top" style="border:1px solid #d0d7de;padding:16px"></td>
